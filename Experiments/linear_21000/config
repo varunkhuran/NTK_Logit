@@ -1,0 +1,1 @@
+{"ratio": 1.75, "hidden_dim": 21000, "d": 20, "L": 2, "activation": "relu", "model_type": "linear", "lr": 0.1, "trainN": 6000, "testN": 1000, "batch_sz": 50, "thresh": 95}
